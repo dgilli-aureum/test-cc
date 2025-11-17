@@ -1,3 +1,5 @@
+This is a test
+
 # test-cc
 
 This is a test repository for testing Git integration with Claude Code.
@@ -18,6 +20,7 @@ This repository serves as a testing ground to demonstrate and validate the Git i
 ✅ README.md created  
 ✅ First commit completed  
 ✅ README.md pushed to GitHub using MCP servers  
+✅ README.md updated using MCP servers  
 
 ## Claude Code Integration
 
@@ -28,6 +31,7 @@ This project demonstrates Claude Code's ability to:
 - Execute Git commands
 - Perform version control operations
 - Push files using GitHub MCP servers
+- Update files directly on GitHub using MCP servers
 
 ---
 *Generated and managed with Claude Code*
